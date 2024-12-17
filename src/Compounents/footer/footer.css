@@ -1,0 +1,37 @@
+
+.contacs {
+    padding: 90px 0;
+    text-align: center;
+}
+
+.contacs-title {
+    margin-bottom: 40px;
+}
+
+.contacts-content {
+    margin: 0 auto 40px;
+    max-width: 480px;
+    font-size: 18px;
+}
+
+.contacts-content p + p {
+    margin-bottom: 1em;
+}
+
+.contacts-button {
+    margin-bottom: 80px;
+}
+
+
+.contacs-sochial {
+    display: flex;
+    justify-content: center;
+    column-gap: 60px;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.contacs-footer {
+    color: #828282;;
+}
+
